@@ -1,0 +1,15 @@
+#ifndef ORDER_
+#define ORDER_
+
+
+class Order
+{
+    public:
+        Order();
+
+    protected:
+
+    private:
+};
+
+#endif // ORDER_

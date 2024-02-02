@@ -1,0 +1,369 @@
+# depslib dependency file v1.0
+1654665274 source:d:\semester 2\oop\projects\oop 3\sales order app\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"TransactionList.h"
+
+1654693259 source:d:\semester 2\oop\projects\oop 3\sales order app\src\customers.cpp
+	"Customers.h"
+
+1654693259 d:\semester 2\oop\projects\oop 3\sales order app\include\customers.h
+	"Company.h"
+	"Person.h"
+	"Customer.h"
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\sales order app\src\company.cpp
+	"Company.h"
+
+1654691678 d:\semester 2\oop\projects\oop 3\sales order app\include\company.h
+	"Customer.h"
+
+1654693353 d:\semester 2\oop\projects\oop 3\sales order app\include\customer.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\sales order app\src\person.cpp
+	"Person.h"
+
+1654419931 d:\semester 2\oop\projects\oop 3\sales order app\include\person.h
+	"Customer.h"
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\sales order app\src\customer.cpp
+	"Customer.h"
+
+1654694740 source:d:\semester 2\oop\projects\oop 3\sales order app\src\product.cpp
+	"Product.h"
+
+1654694729 d:\semester 2\oop\projects\oop 3\sales order app\include\product.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1654662607 source:d:\semester 2\oop\projects\oop 3\sales order app\src\productlist.cpp
+	"ProductList.h"
+
+1654661341 d:\semester 2\oop\projects\oop 3\sales order app\include\productlist.h
+	"Product.h"
+
+1654661341 d:\semester 2\oop\projects\oop 3\sales order app\include\stock.h
+	"ProductList.h"
+
+1654662607 source:d:\semester 2\oop\projects\oop 3\sales order app\src\stock.cpp
+	"Stock.h"
+
+1654693371 source:d:\semester 2\oop\projects\oop 3\sales order app\src\order.cpp
+	"Order.h"
+
+1654699945 d:\semester 2\oop\projects\oop 3\sales order app\include\order.h
+	<ctime>
+	"OrderItem.h"
+	"Customers.h"
+
+1654699389 d:\semester 2\oop\projects\oop 3\sales order app\include\orderitem.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Stock.h"
+
+1654690947 source:d:\semester 2\oop\projects\oop 3\sales order app\src\orderitem.cpp
+	"OrderItem.h"
+
+1654701011 d:\semester 2\oop\projects\oop 3\sales order app\include\orderlist.h
+	"Order.h"
+
+1654662616 source:d:\semester 2\oop\projects\oop 3\sales order app\src\orderlist.cpp
+	"OrderList.h"
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\sales order app\src\cash.cpp
+	"Cash.h"
+
+1654412945 d:\semester 2\oop\projects\oop 3\sales order app\include\cash.h
+	"Payment.h"
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\sales order app\src\check.cpp
+	"Check.h"
+
+1654412945 d:\semester 2\oop\projects\oop 3\sales order app\include\check.h
+	"Payment.h"
+
+1654691174 source:d:\semester 2\oop\projects\oop 3\sales order app\src\transaction.cpp
+	"Transaction.h"
+
+1654691174 d:\semester 2\oop\projects\oop 3\sales order app\include\transaction.h
+	"Orderlist.h"
+	"Cash.h"
+	"Credit.h"
+	"Check.h"
+
+1654430541 source:d:\semester 2\oop\projects\oop 3\sales order app\src\payment.cpp
+	"Payment.h"
+
+1654430541 d:\semester 2\oop\projects\oop 3\sales order app\include\payment.h
+	<iostream>
+	<string>
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\sales order app\src\credit.cpp
+	"Credit.h"
+
+1654408563 d:\semester 2\oop\projects\oop 3\sales order app\include\credit.h
+	"Payment.h"
+
+1654688776 source:d:\semester 2\oop\projects\oop 3\sales order app\src\transactionlist.cpp
+	"TransactionList.h"
+
+1654688776 d:\semester 2\oop\projects\oop 3\sales order app\include\transactionlist.h
+	"Transaction.h"
+	<fstream>
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\oop3\src\cash.cpp
+	"Cash.h"
+
+1654412945 d:\semester 2\oop\projects\oop 3\oop3\include\cash.h
+	"Payment.h"
+
+1654430541 d:\semester 2\oop\projects\oop 3\oop3\include\payment.h
+	<iostream>
+	<string>
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\oop3\src\check.cpp
+	"Check.h"
+
+1654412945 d:\semester 2\oop\projects\oop 3\oop3\include\check.h
+	"Payment.h"
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\oop3\src\company.cpp
+	"Company.h"
+
+1654691678 d:\semester 2\oop\projects\oop 3\oop3\include\company.h
+	"Customer.h"
+
+1654693353 d:\semester 2\oop\projects\oop 3\oop3\include\customer.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1654663308 source:d:\semester 2\oop\projects\oop 3\oop3\src\credit.cpp
+	"Credit.h"
+
+1654408563 d:\semester 2\oop\projects\oop 3\oop3\include\credit.h
+	"Payment.h"
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\oop3\src\customer.cpp
+	"Customer.h"
+
+1654782653 source:d:\semester 2\oop\projects\oop 3\oop3\src\customers.cpp
+	"Customers.h"
+
+1654781874 d:\semester 2\oop\projects\oop 3\oop3\include\customers.h
+	"Company.h"
+	"Person.h"
+	<fstream>
+	"Customer.h"
+
+1654419931 d:\semester 2\oop\projects\oop 3\oop3\include\person.h
+	"Customer.h"
+
+1654693371 source:d:\semester 2\oop\projects\oop 3\oop3\src\order.cpp
+	"Order.h"
+
+1654699945 d:\semester 2\oop\projects\oop 3\oop3\include\order.h
+	<ctime>
+	"OrderItem.h"
+	"Customers.h"
+
+1654699389 d:\semester 2\oop\projects\oop 3\oop3\include\orderitem.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Stock.h"
+
+1654661341 d:\semester 2\oop\projects\oop 3\oop3\include\stock.h
+	"ProductList.h"
+
+1654661341 d:\semester 2\oop\projects\oop 3\oop3\include\productlist.h
+	"Product.h"
+
+1654694729 d:\semester 2\oop\projects\oop 3\oop3\include\product.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1654690947 source:d:\semester 2\oop\projects\oop 3\oop3\src\orderitem.cpp
+	"OrderItem.h"
+
+1654662616 source:d:\semester 2\oop\projects\oop 3\oop3\src\orderlist.cpp
+	"OrderList.h"
+
+1654701011 d:\semester 2\oop\projects\oop 3\oop3\include\orderlist.h
+	"Order.h"
+
+1654430541 source:d:\semester 2\oop\projects\oop 3\oop3\src\payment.cpp
+	"Payment.h"
+
+1654419931 source:d:\semester 2\oop\projects\oop 3\oop3\src\person.cpp
+	"Person.h"
+
+1654694740 source:d:\semester 2\oop\projects\oop 3\oop3\src\product.cpp
+	"Product.h"
+
+1654662607 source:d:\semester 2\oop\projects\oop 3\oop3\src\productlist.cpp
+	"ProductList.h"
+
+1654662607 source:d:\semester 2\oop\projects\oop 3\oop3\src\stock.cpp
+	"Stock.h"
+
+1654691174 source:d:\semester 2\oop\projects\oop 3\oop3\src\transaction.cpp
+	"Transaction.h"
+
+1654691174 d:\semester 2\oop\projects\oop 3\oop3\include\transaction.h
+	"Orderlist.h"
+	"Cash.h"
+	"Credit.h"
+	"Check.h"
+
+1654665274 source:d:\semester 2\oop\projects\oop 3\oop3\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"TransactionList.h"
+
+1654781979 d:\semester 2\oop\projects\oop 3\oop3\include\transactionlist.h
+	"Transaction.h"
+	<fstream>
+
+1654688776 source:d:\semester 2\oop\projects\oop 3\oop3\src\transactionlist.cpp
+	"TransactionList.h"
+
+1654665274 source:d:\programming\projects\oop 3\oop3\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"TransactionList.h"
+
+1654781979 d:\programming\projects\oop 3\oop3\include\transactionlist.h
+	"Transaction.h"
+	<fstream>
+
+1654691174 d:\programming\projects\oop 3\oop3\include\transaction.h
+	"Orderlist.h"
+	"Cash.h"
+	"Credit.h"
+	"Check.h"
+
+1654701011 d:\programming\projects\oop 3\oop3\include\orderlist.h
+	"Order.h"
+
+1654699945 d:\programming\projects\oop 3\oop3\include\order.h
+	<ctime>
+	"OrderItem.h"
+	"Customers.h"
+
+1654699389 d:\programming\projects\oop 3\oop3\include\orderitem.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	"Stock.h"
+
+1654661341 d:\programming\projects\oop 3\oop3\include\stock.h
+	"ProductList.h"
+
+1654661341 d:\programming\projects\oop 3\oop3\include\productlist.h
+	"Product.h"
+
+1654694729 d:\programming\projects\oop 3\oop3\include\product.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+
+1654781874 d:\programming\projects\oop 3\oop3\include\customers.h
+	"Company.h"
+	"Person.h"
+	<fstream>
+	"Customer.h"
+
+1654691678 d:\programming\projects\oop 3\oop3\include\company.h
+	"Customer.h"
+
+1654693353 d:\programming\projects\oop 3\oop3\include\customer.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1654419931 d:\programming\projects\oop 3\oop3\include\person.h
+	"Customer.h"
+
+1654412945 d:\programming\projects\oop 3\oop3\include\cash.h
+	"Payment.h"
+
+1654430541 d:\programming\projects\oop 3\oop3\include\payment.h
+	<iostream>
+	<string>
+
+1654408563 d:\programming\projects\oop 3\oop3\include\credit.h
+	"Payment.h"
+
+1654412945 d:\programming\projects\oop 3\oop3\include\check.h
+	"Payment.h"
+
+1654663308 source:d:\programming\projects\oop 3\oop3\src\cash.cpp
+	"Cash.h"
+
+1654663308 source:d:\programming\projects\oop 3\oop3\src\check.cpp
+	"Check.h"
+
+1654419931 source:d:\programming\projects\oop 3\oop3\src\company.cpp
+	"Company.h"
+
+1654663308 source:d:\programming\projects\oop 3\oop3\src\credit.cpp
+	"Credit.h"
+
+1654419931 source:d:\programming\projects\oop 3\oop3\src\customer.cpp
+	"Customer.h"
+
+1654782653 source:d:\programming\projects\oop 3\oop3\src\customers.cpp
+	"Customers.h"
+
+1654693371 source:d:\programming\projects\oop 3\oop3\src\order.cpp
+	"Order.h"
+
+1654690947 source:d:\programming\projects\oop 3\oop3\src\orderitem.cpp
+	"OrderItem.h"
+
+1654430541 source:d:\programming\projects\oop 3\oop3\src\payment.cpp
+	"Payment.h"
+
+1654419931 source:d:\programming\projects\oop 3\oop3\src\person.cpp
+	"Person.h"
+
+1654694740 source:d:\programming\projects\oop 3\oop3\src\product.cpp
+	"Product.h"
+
+1654662607 source:d:\programming\projects\oop 3\oop3\src\productlist.cpp
+	"ProductList.h"
+
+1654662607 source:d:\programming\projects\oop 3\oop3\src\stock.cpp
+	"Stock.h"
+
+1654691174 source:d:\programming\projects\oop 3\oop3\src\transaction.cpp
+	"Transaction.h"
+
+1654688776 source:d:\programming\projects\oop 3\oop3\src\transactionlist.cpp
+	"TransactionList.h"
+
